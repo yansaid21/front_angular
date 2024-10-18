@@ -1,0 +1,22 @@
+.wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-image: url('../../../assets/pexels-hngstrm-1939485.jpg');
+    background-size: cover; /* Asegura que la imagen cubra todo el elemento */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+
+  }
+
+.body{
+  max-width: 300px;
+  width: 100%;
+  text-align: center;
+}
+
+.logo{
+  height: 100px;
+  margin-bottom: 10px;
+}
